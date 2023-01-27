@@ -1,0 +1,8 @@
+/* Navbar */
+
+/* To negate the margin hr uses*/
+
+.navbar hr{
+    margin-top: 0;
+    margin-bottom: 0;
+}
