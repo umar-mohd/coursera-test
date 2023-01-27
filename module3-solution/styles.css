@@ -1,5 +1,23 @@
 /* Navbar */
 
+/*To make the drop=down menu item have 100% width of the window.*/
+
+.navbar{
+    padding: 0;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.navbar-collapse ul{
+    width: 100%;
+}
+
+.navbar-collapse li{
+    width: 100%;
+}
+
 /* To negate the margin hr uses*/
 
 .navbar hr{
